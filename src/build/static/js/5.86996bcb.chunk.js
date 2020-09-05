@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-blog"]=this["webpackJsonpmy-blog"]||[]).push([[5],{34:function(t,e,n){"use strict";n.r(e);var s=n(0),u=n.n(s);e.default=function(){return u.a.createElement("h1",null,"This is our about page")}}}]);
+//# sourceMappingURL=5.86996bcb.chunk.js.map
